@@ -3,6 +3,17 @@ Herramienta para descargar fotos y mensajes privados de la red social Tuenti.
 
 ## Requisitos
 - Java 7 o superior
+- Maven
+
+## Uso
+Para iniciar el programa:
+
+    mvn exec:java
+    
+Para crear un .jar ejecutable con todas las dependencias:
+
+    mvn assembly:single
+
 
 ## Creadores
 **Jose Toro**
