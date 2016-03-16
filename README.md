@@ -2,7 +2,7 @@
 Herramienta para descargar fotos y mensajes privados de la red social Tuenti.
 
 ### Actualización (16 Mar 2016)
-Tuenti desactivo el acceso a los álbumes de fotos de los usuarios vía web recientemente. tuDownloader, que se basaba en simular una conexión web para obtener y descargar las fotos, ha dejado de ser funcional. Para poder descargar las fotos, la única alternativa es usar la herramienta que Tuenti ha puesto en disposición de los usuarios. Los mensajes privados pueden seguir bajándose usando tuDownloader.
+Tuenti desactivó el acceso a los álbumes de fotos de los usuarios vía web recientemente. tuDownloader, que se basaba en simular una conexión web para obtener y descargar las fotos, ha dejado de ser funcional. Para poder descargar las fotos, la única alternativa es usar la herramienta que Tuenti ha puesto en disposición de los usuarios. Los mensajes privados pueden seguir bajándose usando tuDownloader.
 
 ## Requisitos
 - Java 7 o superior
