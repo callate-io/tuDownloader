@@ -20,8 +20,8 @@ Para crear un .jar ejecutable con todas las dependencias:
 
 ## Creadores
 **Jose Toro**
-- https://twitter.com/wynkth
-- https://github.com/wynkth
+- https://twitter.com/joseotoro
+- https://github.com/joseotoro
 
 **Nur Álvarez**
 - https://twitter.com/subnurmality
